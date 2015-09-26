@@ -6,6 +6,29 @@ body {
     margin: 0; /* keep this */
 }
 
+#cougar {
+	background-color: #b26219
+}
+#lion {
+	background-color: #ffbd82
+}
+#tiger {
+	background-color: #82e8ff
+}	
+
+article {
+	background-color: #fff
+	text-align: center
+}
+
+h2 {
+	text-align: center
+}
+
+
+
+
+
 /* ----- suggested colors -----
    B26219 cinnamon
    FFD5AE pale peach 
